@@ -3,9 +3,7 @@
     "devToolkit": {
       "inputs": {
         "haumea": "haumea",
-        "nixpkgs": [
-          "nixpkgs"
-        ],
+        "nixpkgs": ["nixpkgs"],
         "utils": "utils"
       },
       "locked": {
@@ -24,10 +22,7 @@
     },
     "haumea": {
       "inputs": {
-        "nixpkgs": [
-          "devToolkit",
-          "nixpkgs"
-        ]
+        "nixpkgs": ["devToolkit", "nixpkgs"]
       },
       "locked": {
         "lastModified": 1685133229,
@@ -46,9 +41,7 @@
     },
     "haumea_2": {
       "inputs": {
-        "nixpkgs": [
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixpkgs"]
       },
       "locked": {
         "lastModified": 1685133229,
