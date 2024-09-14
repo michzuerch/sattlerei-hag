@@ -1,7 +1,7 @@
 {
   "name": "sattlerei-hag/site",
   "version": "1.0.0",
-  "description": "Home michzuerch@gmail.com",
+  "description": "Website sattlerei-hag.de",
   "type": "module",
   "private": true,
   "engines": {
